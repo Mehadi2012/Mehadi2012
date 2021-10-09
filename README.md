@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mehadi Hasan.
-- 👀 I’m interested in Web Developing and Computer Networking.
-- 🌱 I’m currently learning Web Development and Artificial Intilligence.
-- 💞️ I’m looking to collaborate on any Web Development  and Computer Networking releated projects.
+- 👀 I’m interested in Data Science and Web Developing.
+- 🌱 I’m currently learning Machine Learning and Artificial Intilligence.
+- 💞️ I’m looking to collaborate on any Data Science  and Web Development releated projects.
 - 📫 You can reach me via email(mdmehadihasan2012@gmail.com)
 
 <!---
